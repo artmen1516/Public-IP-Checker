@@ -1,0 +1,1 @@
+pywhatkit==3.8
